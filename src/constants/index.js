@@ -146,7 +146,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Collision Dashboard v2',
-    description: 'A dynamic spatial dashboard of Seattle traffic collisions.',
+    description: 'A dynamic spatial dashboard of Seattle traffic collisions made with the ArcGIS SDK.',
     tags: [
       {
         name: 'react',
@@ -169,7 +169,7 @@ const projects = [
     id: 'project-2',
     name: 'Collision Dashboard v1',
     description:
-      'A heatmap analysis of Seattle Collisions from 2004 to 2020.',
+      'A Mapbox heatmap analysis of Seattle Collisions from 2004 to 2020.',
     tags: [
       {
         name: 'react',
